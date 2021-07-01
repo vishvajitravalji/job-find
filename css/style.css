@@ -29,6 +29,7 @@ header {
 .header-container .logo {
   height: 30px;
   margin-right: 20px;
+  border-radius: 10px;
 }
 
 .header-container .logo img {
